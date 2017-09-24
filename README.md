@@ -1,1 +1,1 @@
-read this document thoroughly
+read this document once
